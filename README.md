@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Techskillz Guru
+- 👋 Hi, I’m Denis Kinyua 
 - 👀 I’m interested in creative themed full stack web development 
 - 🌱 I’m currently learning computer programming 
 - 💞️ I’m looking to collaborate on ...
